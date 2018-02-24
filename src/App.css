@@ -1,0 +1,22 @@
+.app {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+    color: #3d3d3d;
+    margin: 0 20px;
+}
+
+.mainTitle {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0060B6;
+  text-decoration: none;
+}
+
+.mainTitle:hover {
+  color:#00A0C6; 
+  text-decoration: none;
+}
+
+/* .page {
+  background-color: rgb(246, 246, 239);
+} */
